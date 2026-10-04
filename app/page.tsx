@@ -304,10 +304,10 @@ export function Footer() {
           </h3>
 
           <a
-            href="mailto:support@example.com"
+            href="mailto:wizardreddit@proton.me"
             className="text-[14px] text-white/60 transition-colors hover:text-white"
           >
-            support@example.com
+            wizardreddit@proton.me
           </a>
         </div>
       </div>
@@ -371,7 +371,7 @@ export function PromoSectionNew({ onOpenModal,
         </div>
 
         <div className="rounded-xl bg-[#2f2b2c]">
-          <div className="pl-[30px] pt-[30px] pb-[30px] text-left">
+          <div className="pl-[30px] pr-[30px] pt-[30px] pb-[30px] text-left">
             <div className="text-[24px] mb-[8px] font-semibold">
               Karma Bootstrapper
             </div>
